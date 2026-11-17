@@ -6,17 +6,17 @@
 
 ## 最新版本
 
-**[v0.15](../../releases/tag/v0.15)**
+**[v0.18](../../releases/tag/v0.18)**
 
 | 平台 | 文件 | 大小 | 下载 |
 | --- | --- | --- | --- |
-| Windows | `3aGames-0.18-win-debug.zip` | 155.8 MB | [下载](https://github.com/Unclewang788/3agames/releases/download/v0.18/3aGames-0.18-win-debug.zip) |
+| Windows | `3aGames-0.18-win-debug.zip` | 155.8 MB | [下载](../../releases/download/v0.18/3aGames-0.18-win-debug.zip) |
 
 ## 全部版本
 
 | 版本 | 平台 | 文件 | 大小 | 下载 |
 | --- | --- | --- | --- | --- |
-| v0.18 | Windows | `3aGames-0.18-win-debug.zip`| 155.8 MB | [下载](https://github.com/Unclewang788/3agames/releases/download/v0.18/3aGames-0.18-win-debug.zip) |
+| v0.18 | Windows | `3aGames-0.18-win-debug.zip`| 155.8 MB | [下载](../../releases/download/v0.18/3aGames-0.18-win-debug.zip) |
 | v0.15 | Windows | `3aGames-0.15-win.zip` | 154.3 MB | [下载](../../releases/download/v0.15/3aGames-0.15-win.zip) |
 | v0.10 | Windows | `3aGames-v0.10-win.zip` | 122.5 MB | [下载](../../releases/download/v0.10/3aGames-v0.10-win.zip) |
 | v0.10 | Android | `com.unclewang.a3games-0.10-1792407876-release.apk` | 144.3 MB | [下载](../../releases/download/v0.10/com.unclewang.a3games-0.10-1792407876-release.apk) |
